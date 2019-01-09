@@ -1,0 +1,32 @@
+# Translation of Themes - Content in Spanish (Spain)
+# This file is distributed under the same license as the Themes - Content package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-07-12 07:56:54+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: es\n"
+"Project-Id-Version: Themes - Content\n"
+
+#. Description of the plugin/theme
+msgid "Content is a responsive, multi-purpose WordPress theme. It’s flexible and suitable for agencies, blogs, business, corporate or portfolios. Customization is easy and straight-forward, with options provided that allow you to setup your site to perfectly fit your desired online presence. Content offers a beautifully designed masonry blog layout. For more details, visit this link https://wordpress.org/themes/spicepress/. We hope you will find the Content theme useful."
+msgstr "Content es un tema de WordPress adaptable y multi-propósito. Es flexible y adecuado para agencias, blogs, negocios, corporaciones o portafolios. La personalización es sencilla, con opciones que te permiten configurar tu página web para ajustarse de forma perfecta a la presencia online que desees. Content ofrece un bonito diseño del blog de tipo masonry. Para más detalles, visita este enlace https://es.wordpress.org/themes/spicepress/. Esperamos que Content te sea útil."
+
+#. Theme Name of the plugin/theme
+msgid "Content"
+msgstr "Content"
+
+#. Author URI of the plugin/theme
+msgid "https://spicethemes.com"
+msgstr "https://spicethemes.com"
+
+#. Author of the plugin/theme
+msgid "spicethemes.com"
+msgstr "spicethemes.com"
+
+#. Theme URI of the plugin/theme
+msgid "https://spicethemes.com/content-wordpress-theme/"
+msgstr "https://spicethemes.com/content-wordpress-theme/"
